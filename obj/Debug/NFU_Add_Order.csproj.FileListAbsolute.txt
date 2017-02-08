@@ -1,0 +1,10 @@
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\bin\Debug\NFU_Add_Order.exe.config
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\bin\Debug\NFU_Add_Order.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\bin\Debug\NFU_Add_Order.pdb
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\obj\Debug\NFU_Add_Order.csprojResolveAssemblyReference.cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\obj\Debug\NFU_Add_Order.Form1.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\obj\Debug\NFU_Add_Order.Properties.Resources.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\obj\Debug\NFU_Add_Order.csproj.GenerateResource.Cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\obj\Debug\NFU_Add_Order.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\NFU_Add_Order\obj\Debug\NFU_Add_Order.pdb
